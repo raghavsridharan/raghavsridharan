@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/raghav-sridharan" target="_blank">
+  <a href="[https://linkedin.com/in/raghav-sridharan](https://www.linkedin.com/in/raghav-sridharan-824676280/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/ragshallyou" target="_blank">
