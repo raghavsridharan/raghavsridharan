@@ -1,4 +1,3 @@
-![MasterHead]
 
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
