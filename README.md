@@ -1,9 +1,8 @@
 
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s" alt="raghavsridharan" width="400" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s" alt="raghavsridharan" width="600" />
 </p>
 
 <p align="left">
