@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s" alt="raghavsridharan" width="600" />
+  <img src="mypic.jpeg" alt="raghavsridharan" width="600" />
 </p>
 
 <p align="left">
