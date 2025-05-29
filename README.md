@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
 
 <p align="center">
-  <img src="mypic.jpeg" alt="raghavsridharan" width="600" />
+  <img src="mypic.jpeg" alt="raghavsridharan" width="400" />
 </p>
 
 <p align="left">
