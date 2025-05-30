@@ -22,12 +22,6 @@
 </p><br>
 
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=raghavsridharan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-</div>
-
 <h3 align="left">My Stats</h3>
 
 ###
