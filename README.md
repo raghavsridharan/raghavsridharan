@@ -21,14 +21,27 @@
   <span style="display:inline-block;margin:5px;transition:all 0.3s ease-in-out;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></span>
 </p><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raghavsridharan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raghavsridharan&theme=blue-green&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raghavsridharan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=raghavsridharan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=raghavsridharan&icon=0&color=2)](https://visitcount.itsvg.in)
+<h3 align="left">My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raghavsridharan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/raghavsridharan/count.svg?"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
