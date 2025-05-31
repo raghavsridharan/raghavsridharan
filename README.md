@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
 
-<p align="center">
-  <img src="mypic.jpeg" alt="raghavsridharan" width="400" />
-</p>
-
 <p align="left">
   📫 How to reach me: <a href="mailto:raghavsridharan16@gmail.com">raghavsridharan16@gmail.com</a>
 </p><br>
