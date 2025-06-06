@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
 
 <p align="left">
-  📫 How to reach me: <a href="mailto:raghavsridharan16@gmail.com">raghavsridharan16@gmail.com</a>
+  ▶︎ Reach me at : <a href="mailto:raghavsridharan16@gmail.com">raghavsridharan16@gmail.com</a>
 </p><br>
 
-# 💻 Tech Stack:
+# ⟪ Tech Stack ⟫
 <p align="left">
   <span style="display:inline-block;margin:5px;transition:all 0.3s ease-in-out;"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></span>
   <span style="display:inline-block;margin:5px;transition:all 0.3s ease-in-out;"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></span>
@@ -18,7 +18,7 @@
 </p><br>
 
 
-<h3 align="left">My Stats</h3>
+<h3 align="left">⟪ My Stats ⟫</h3>
 
 ###
 
