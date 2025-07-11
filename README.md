@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Raghav Sridharan</h1>
 
 <p>
-   IIIrd year student persuing B.Tech in AI/DS at Shiv Nadar University, Chennai<br>
+   IIIrd year student pursuing B.Tech in AI/DS at Shiv Nadar University, Chennai<br>
    I am Currently Working on RAG and Speech Processing
   
 </p>
