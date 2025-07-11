@@ -1,5 +1,10 @@
-<h1 align="center">Hey 👋, I'm Raghav Sridharan</h1>
+<h1 align="center">Hey, I'm Raghav Sridharan</h1>
 
+<p>
+   IIIrd year student persuing B.Tech in AI/DS at Shiv Nadar University, Chennai<br>
+   I am Currently Working on RAG and Speech Processing
+  
+</p>
 <p align="left">
   📫 Reach me at: <a href="mailto:raghavsridharan16@gmail.com">raghavsridharan16@gmail.com</a>
 </p>
