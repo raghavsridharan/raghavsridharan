@@ -34,14 +34,4 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=raghavsridharan&theme=tokyonight&hide_border=false" /><br>
 </p>
 
-
-
-##  Visitor Count 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/raghavsridharan/count.svg?" />
-</div>
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
